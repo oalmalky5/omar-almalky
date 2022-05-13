@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/hsdIV0Y.png" width="750" height="500" align="center"/>
+<img src="https://i.imgur.com/hsdIV0Y.png" width="750" height="256" align="center"/>
 
 
 <h1 align="center">Hi 👋, I'm Omar</h1>
