@@ -9,13 +9,13 @@
   <a href="https://www.linkedin.com/in/omar-almalky/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/twitter" target="_blank">
+  <a href="https://twitter.com/OmarA_SWE" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/angellist" target="_blank">
+  <a href="https://angel.co/profile/edit/overview" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
+  <a href="https://www.dropbox.com/s/u3gy1r79yv3zxw3/Omar_AlMalky_CV.pdf?dl=0" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=blueviolet"/>
   </a>
 </p>
