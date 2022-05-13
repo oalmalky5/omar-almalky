@@ -23,7 +23,7 @@
 Creative, detail-oriented, software engineer with a proven track record of problem solving and creating successful front and back end web applications. Looking to bring my skills to a tech company with global reach.
 
 
-See [my website](https://shawncharles.com) for more information!
+See [my website](https://www.omaralmalky.me/) for more information!
 
 
 <h1 align="center">Projects</h1>
