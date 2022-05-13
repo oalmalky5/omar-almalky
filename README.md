@@ -1,6 +1,6 @@
 
 
-<img src="https://i.imgur.com/hsdIV0Y.png" width="50%">
+<img src="https://i.imgur.com/hsdIV0Y.png" width="100%">
 
 <p align="center">
   <a href="https://www.omaralmalky.me/" target="_blank">
@@ -33,10 +33,10 @@ See [my website](https://www.omaralmalky.me/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">Mauzoun.com</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="www.mauzoun.com">
+            <a href="https://imgur.com/w1eMnFu"><img src="https://i.imgur.com/w1eMnFu.gif" title="source: imgur.com" /></a>
         </a>
         <br />
         <p align="center">
