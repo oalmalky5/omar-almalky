@@ -1,6 +1,7 @@
+![Full-Stack Software Engineer](https://i.imgur.com/hsdIV0Y.png)
+<h1 align="center">Hi 👋, I'm Omar</h1>
 ### Hi there 👋, My name is Omar
 #### Full-Stack Software Engineer
-![Full-Stack Software Engineer](https://i.imgur.com/hsdIV0Y.png)
 
 Detail-oriented, software engineer with a proven track record of problem-solving and creating successful front and back applications. 
 
