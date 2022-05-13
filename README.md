@@ -35,8 +35,8 @@ See [my website](https://www.omaralmalky.me/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Mauzoun.com</h3>
         <br />
-        <a target="_blank" href="www.mauzoun.com">
-            <a href="https://imgur.com/w1eMnFu"><img src="https://i.imgur.com/w1eMnFu.gif" title="source: imgur.com" /></a>
+       <a target="_blank" href="www.mauzoun.com">
+            <img src="https://i.imgur.com/k80g5de.png" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
