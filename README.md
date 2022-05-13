@@ -20,7 +20,8 @@
   </a>
 </p>
 
-Previously an Amazon Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Business Management.
+Creative, detail-oriented, software engineer with a proven track record of problem solving and creating successful front and back end web applications. Looking to bring my skills to a tech company with global reach.
+
 
 See [my website](https://shawncharles.com) for more information!
 
