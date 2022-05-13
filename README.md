@@ -20,7 +20,7 @@
   </a>
 </p>
 
-Creative, detail-oriented, software engineer with a proven track record of problem solving and creating successful front and back end web applications. Looking to bring my skills to a tech company with global reach.
+Creative, detail-oriented, software engineer with a proven track record of problem solving and creating successful front and back end web applications. 
 
 
 See [my website](https://www.omaralmalky.me/) for more information!
@@ -34,7 +34,7 @@ See [my website](https://www.omaralmalky.me/) for more information!
       <h3 align="center">Travelara.org</h3>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="https://i.imgur.com/w1eMnFu.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
