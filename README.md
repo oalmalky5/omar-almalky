@@ -1,4 +1,4 @@
-![Full-Stack Software Engineer](https://i.imgur.com/hsdIV0Y.png)
+<img src="https://i.imgur.com/hsdIV0Y.png" width="256" align="center"/>
 
 
 <h1 align="center">Hi 👋, I'm Omar</h1>
