@@ -1,6 +1,6 @@
 
 
-<img src="https://imgur.com/hsdIV0Y" width="100%">
+<img src="https://i.imgur.com/hsdIV0Y.png" width="100%">
 
 <p align="center">
   <a href="https://www.omaralmalky.me/" target="_blank">
