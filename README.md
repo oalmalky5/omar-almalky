@@ -34,7 +34,7 @@ See [my website](https://www.omaralmalky.me/) for more information!
       <h3 align="center">Travelara.org</h3>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="https://i.imgur.com/w1eMnFu.gif" width="100%" alt="Travel App"/>
+            <img src="https://i.imgur.com/w1eMnFu.gifv" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
