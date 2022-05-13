@@ -1,4 +1,3 @@
-<img src="https://i.imgur.com/hsdIV0Y.png" width="750" height="256" align="center"/>
 
 
 <h1 align="center">Hi 👋, I'm Omar</h1>
@@ -16,7 +15,11 @@ Skills:
 
 ## Projects
 
-<img src="https://i.imgur.com/w1eMnFu.mp4" width="256"/>
+<video width="320" height="240" controls>
+  <source src="https://i.imgur.com/w1eMnFu.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/oalmalky5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omar-almalky/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/OmarA_SWE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.omaralmalky.me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg' alt='angellist' height='40'>](https://angel.co/profile/edit/overview)  
 
